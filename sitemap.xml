@@ -1,41 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://SEUDOMINIO.com/</loc>
+        <loc>https://supreme-20.github.io/RadarIA/</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/ferramentas.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/ferramentas.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/categorias.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/categorias.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/artigos.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/artigos.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/sobre.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/sobre.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/contato.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/contato.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/notion.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/chatgpt.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/perplexity.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/gemini.html</loc>
     </url>
 
     <url>
-        <loc>https://SEUDOMINIO.com/runway.html</loc>
+        <loc>https://supreme-20.github.io/RadarIA/midjourney.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/notion.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/perplexity.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/runway.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/artigo-estudar.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/artigo-imagens.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/artigo-programacao.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/categoria-escrita.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/categoria-imagens.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/categoria-marketing.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/categoria-produtividade.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/categoria-programacao.html</loc>
+    </url>
+
+    <url>
+        <loc>https://supreme-20.github.io/RadarIA/categoria-video.html</loc>
     </url>
 
 </urlset>
