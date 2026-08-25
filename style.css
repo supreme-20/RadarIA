@@ -679,6 +679,19 @@ footer {
     color: #1e40af;
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* =========================
    RESPONSIVIDADE
 ========================= */
@@ -686,10 +699,15 @@ footer {
 @media (max-width: 768px) {
 
     header {
-        flex-direction: column;
-        gap: 15px;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
         margin: 12px;
         padding: 15px;
+    }
+
+    .menu-toggle {
+        display: block;
     }
 
     .logo img {
@@ -863,3 +881,13 @@ footer {
         gap: 12px;
     }
 }
+
+
+.menu-toggle {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+}
+

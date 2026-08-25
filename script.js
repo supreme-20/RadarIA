@@ -1,0 +1,1 @@
+console.log("RadarIA conectado ao JavaScript com sucesso! aaaaaaaaaa");
